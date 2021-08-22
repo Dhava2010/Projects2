@@ -1,0 +1,15 @@
+.menu
+{
+    list-style: none;
+    float: left;
+}
+
+marquee
+{
+    background-color: cyan;
+}
+
+#video
+{
+    margin-left: 300px;
+}
