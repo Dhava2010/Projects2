@@ -12,4 +12,18 @@ marquee
 #video
 {
     margin-left: 300px;
+    margin-top: 200px;
+    margin-bottom: 200px;
+    align-content: center;
+}
+
+#sec1CL
+{
+    width: 300px;
+    text-align: center;
+}
+
+#IC
+{
+    width: 350px;
 }
